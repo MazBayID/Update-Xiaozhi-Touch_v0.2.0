@@ -1,0 +1,9 @@
+XiaoZhi Huy Vector C3
+Faces + TTP223 v1.0
+
+Target: ESP32-C3 Super Mini
+Flash offset: 0x0
+
+IMPORTANT:
+This is a merged firmware binary.
+Flash the complete binary at offset 0x0.
